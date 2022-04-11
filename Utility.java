@@ -458,16 +458,7 @@ public class Utility<T extends Comparable<? super T>> {
 		return null;
 	}
 
-	public static double inputDouble() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	public static double inputDouble() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
+	
 	
 	
 }
